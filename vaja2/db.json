@@ -1,0 +1,36 @@
+{
+  "seznam": [
+    {
+      "id": 1,
+      "naslov": "Test1",
+      "vrsta": "Kuhanje",
+      "opis": "Opis recepta",
+      "navodila": "Skuhaj pa nehaj bit bogi",
+      "sestavine": "Jajca"
+    },
+    {
+      "id": 2,
+      "naslov": "Test2",
+      "vrsta": "Kuhanje",
+      "opis": "Opis recepta",
+      "navodila": "Skuhaj pa nehaj bit bogi",
+      "sestavine": "Jajca"
+    },
+    {
+      "id": 3,
+      "naslov": "Test3",
+      "vrsta": "Kuhanje",
+      "opis": "Opis recepta",
+      "navodila": "Skuhaj pa nehaj bit bogi",
+      "sestavine": "Jajca"
+    },
+    {
+      "id": "81ef",
+      "naslov": "aaaaaaa",
+      "opis": "aaaaaaa",
+      "navodila": "aaaaaaaaaa",
+      "sestavine": "aaaaaaaaaaa",
+      "vrsta": "sladica"
+    }
+  ]
+}
